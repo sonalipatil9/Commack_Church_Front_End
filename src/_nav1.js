@@ -14,7 +14,7 @@ import {
   cilStar,
 } from '@coreui/icons'
 import { CNavGroup, CNavItem, CNavTitle } from '@coreui/react'
-const demo = 'demo'
+
 const _nav = [
   {
     component: CNavItem,
